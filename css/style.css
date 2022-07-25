@@ -36,11 +36,11 @@ body {
   width: 300px;
   padding: 10px 20px;
   border: none;
-  transition: 0.4s 0.5s;
-  -webkit-transition: 0.4s 0.5s;
-  -moz-transition: 0.4s 0.5s;
-  -ms-transition: 0.4s 0.5s;
-  -o-transition: 0.4s 0.5s;
+  transition: 0.4s 0.2s;
+  -webkit-transition: 0.4s 0.2s;
+  -moz-transition: 0.4s 0.2s;
+  -ms-transition: 0.4s 0.2s;
+  -o-transition: 0.4s 0.2s;
   position: relative;
   overflow: hidden;
 }
