@@ -28,7 +28,7 @@ body {
   color: white;
   text-align: center;
 }
-.btn-larnU {
+.btn {
   background: var(--color-quaternary);
   color: var(--color-primary);
   font-size: 1.1em;
@@ -44,7 +44,7 @@ body {
   position: relative;
   overflow: hidden;
 }
-.btn-larnU:hover {
+.btn:hover {
   background: var(--color-secundary);
   border-radius: 15px;
   -webkit-border-radius: 15px;
