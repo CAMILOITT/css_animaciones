@@ -22,9 +22,11 @@ body {
   justify-content: space-evenly;
   align-items: center;
   background: var(--color-bg);
+  padding: 10px 20px;
 }
 .title {
   color: white;
+  text-align: center;
 }
 .btn-larnU {
   background: var(--color-quaternary);
